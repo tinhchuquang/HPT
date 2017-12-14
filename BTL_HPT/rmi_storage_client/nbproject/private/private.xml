@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/HOCTAP/BTL_HPT/rmi_storage_client/src/rmi_storage_server/FileServer.java</file>
+            <file>file:/D:/HOCTAP/BTL_HPT/rmi_storage_client/src/rmi_storage_server/FileServerInt.java</file>
+            <file>file:/D:/HOCTAP/BTL_HPT/rmi_storage_client/src/rmi_storage_client/Client_interface.java</file>
+            <file>file:/D:/HOCTAP/BTL_HPT/rmi_storage_client/src/rmi_storage_server/RunServer.java</file>
+            <file>file:/D:/HOCTAP/BTL_HPT/rmi_storage_client/src/rmi_storage_client/NtpMessage.java</file>
+            <file>file:/D:/HOCTAP/BTL_HPT/rmi_storage_client/src/rmi_storage_client/RunClient.java</file>
+            <file>file:/D:/HOCTAP/BTL_HPT/rmi_storage_client/src/rmi_storage_client/FileClient.java</file>
+            <file>file:/D:/HOCTAP/BTL_HPT/rmi_storage_client/src/rmi_storage_client/Synchronization.java</file>
+            <file>file:/D:/HOCTAP/BTL_HPT/rmi_storage_client/src/rmi_storage_server/cmdServer.java</file>
+        </group>
+    </open-files>
+</project-private>
